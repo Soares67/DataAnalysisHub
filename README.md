@@ -5,9 +5,9 @@ Este repositório contém uma coleção de análises de dados realizadas em dive
 <br>
 <br>
  
-* ### [Análises](https://github.com/Soares67/DataAnalysisHub/tree/main/An%C3%A1lises)  
-* ### [Como usar](#how-to-use)  
-* ### [Contribuição](#cont)
+* ### [Análises 📊](https://github.com/Soares67/DataAnalysisHub/tree/main/An%C3%A1lises)  
+* ### [Como usar ❓](#how-to-use)  
+* ### [Contribuição 🤝](#cont)
  
 <br>
 <br>
@@ -36,7 +36,7 @@ Este repositório contém uma coleção de análises de dados realizadas em dive
 ### Contribuições são bem-vindas! Se você deseja contribuir com uma nova análise ou melhorar uma existente, siga estas etapas:  
 
 * Fork este repositório.
-* Crie uma nova branch com a sua feature: git checkout -b feature/nova-analise.
-* Faça suas alterações e commit as mudanças: git commit -m 'Adiciona nova análise'.
-* Envie suas alterações para a branch remota: git push origin feature/nova-analise.
+* Crie uma nova branch com a sua feature:   `git checkout -b feature/nova-analise`
+* Faça suas alterações e commit as mudanças:   `git commit -m 'Adiciona nova análise'`
+* Envie suas alterações para a branch remota:   `git push origin feature/nova-analise`
 * Abra um pull request para revisão.
